@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="header" src="https://capsule-render.vercel.app/api?type=wave&color=0:4FC08D,100:3178C6&height=120&section=header&text=Andiii&fontColor=ffffff&fontSize=44">
+<img alt="rule" src="assets/rule.svg">
 
 # 你好，我是 Andiii 👋
 
