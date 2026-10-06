@@ -4,7 +4,7 @@
 
 **Southeast University · B.Eng. in Software Engineering · enrolled 2025**
 
-> Interested in AI.
+<small>Interested in AI.</small>
 
 <p>
   <a href="mailto:2689573676@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2689573676%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
