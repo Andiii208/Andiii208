@@ -1,6 +1,6 @@
 <div align="center">
 
-# 你好，我是 Andiii 👋
+# Hi, I'm Andiii 👋
 
 **Southeast University · B.Eng. in Software Engineering · enrolled 2025**
 
