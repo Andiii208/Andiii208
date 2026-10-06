@@ -1,7 +1,5 @@
 <div align="center">
 
-<img alt="rule" src="assets/rule.svg">
-
 # 你好，我是 Andiii 👋
 
 **东南大学 2025 级 · 软件工程专业**
